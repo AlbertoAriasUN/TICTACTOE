@@ -14,6 +14,17 @@ import tictactoe.ui.UI;
 
 
 public class TurnController {
-    
+    public static Board playTurn(Board board, Player player){
+        
+    }
+    private static Board markBoard(Board board,int squareIndex,char symbol){
+        
+    }
+    public static boolean existFreeSquares(Board board,Player player1,Player player2){
+        
+    }
+    private static int generateRobotmovement(){
+        
+    }
     
 }
